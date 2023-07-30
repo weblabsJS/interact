@@ -1,0 +1,25 @@
+{
+  "name": "@weblabsjs/interact",
+  "version": "0.0.1-beta",
+  "description": "The UI Library of WebLabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblabsJS/interact.git"
+  },
+  "keywords": [
+    "WebLabs"
+  ],
+  "author": "Mayukh Chakraborty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weblabsJS/interact/issues"
+  },
+  "homepage": "https://github.com/weblabsJS/interact#readme",
+  "dependencies": {
+    "@weblabsjs/core": "^0.2.2-beta"
+  }
+}
