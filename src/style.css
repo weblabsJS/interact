@@ -20,23 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. */
 
-/* Button Sections */
-.interact-btn {
-
-    padding: 18px 15px;
-    white-space: nowrap;
-    font-size: 14px;
-
-}
-
-.interact-btn-primary {
-
-    background-color: #267DFF;
-    color: white;
-
-}
-
-.interact-btn-primary:focus {
-    outline: 2px solid #267DFF;
-    outline-offset: 2px;
-}
+/* import individual components. */
+@import url("./button/style.css");

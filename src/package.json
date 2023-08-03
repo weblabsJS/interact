@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/weblabsJS/interact#readme",
   "dependencies": {
-    "@weblabsjs/core": "^0.2.2-beta"
+    "@weblabsjs/core": "^0.2.9-beta"
   }
 }

@@ -1,0 +1,20 @@
+/* Here is the style for the button */
+.interact-btn {
+
+    padding: 18px 15px;
+    white-space: nowrap;
+    font-size: 14px;
+
+}
+
+.interact-btn-primary {
+
+    background-color: #267DFF;
+    color: white;
+
+}
+
+.interact-btn-primary:focus {
+    outline: 2px solid #267DFF;
+    outline-offset: 2px;
+}
