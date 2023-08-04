@@ -1,7 +1,7 @@
 mkdir dist
 tsc -p ./tsconfig.json
 cp ./src/package.json ./dist
-cp ./src/style.css ./dist
+python3 scripts/style.py
 cp README.MD ./dist
 git add ./src/package.json
 git add ./src/style.css
